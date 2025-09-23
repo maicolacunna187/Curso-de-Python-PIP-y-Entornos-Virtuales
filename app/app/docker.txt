@@ -1,0 +1,31 @@
+### Comandos Esenciales de Docker Compose 🐳
+
+---
+
+**docker-compose up -d** 🚀
+Inicia tus servicios en segundo plano.
+
+**docker-compose build** 🔨
+Construye las imágenes para tus servicios.
+
+**docker-compose ps** 📊
+Muestra el estado de tus contenedores.
+
+**docker-compose down** 🛑
+Detiene y elimina tus contenedores y redes.
+
+**docker-compose exec [servicio] [comando]** 💻
+Ejecuta un comando dentro de un contenedor en ejecución.
+
+---
+
+### Comandos Adicionales Útiles
+
+**docker-compose logs** 📜
+Muestra la salida de los logs de tus servicios.
+
+**docker-compose pull** 📥
+Descarga las imágenes más recientes de Docker Hub.
+
+**docker-compose stop** ⏸️
+Solo detiene los contenedores, sin eliminarlos.
